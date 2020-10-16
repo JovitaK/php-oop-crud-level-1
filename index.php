@@ -82,6 +82,7 @@ echo "<a href='read_one.php?id={$id}' class='btn btn-primary left-margin'>
   
     // paging buttons will be here
     // the page where this paging is used
+    //Testing edit
 $page_url = "index.php?";
   
 // count all products in the database to calculate total pages
